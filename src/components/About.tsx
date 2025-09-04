@@ -58,7 +58,7 @@ const About = () => {
                     <Badge
                       key={tech}
                       variant="secondary"
-                      className="px-3 py-1 bg-muted/50 hover:bg-primary hover:text-primary-foreground transition-all duration-300 cursor-default"
+                      className="px-3 py-1 bg-muted/50 hover:bg-sky-600 hover:text-primary-foreground transition-all duration-300 cursor-default"
                     >
                       {tech}
                     </Badge>

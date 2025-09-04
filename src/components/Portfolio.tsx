@@ -93,7 +93,7 @@ const Portfolio = () => {
               <Button
                 key={category}
                 variant="outline"
-                className="border-border hover:bg-primary hover:text-primary-foreground hover:border-primary transition-all duration-300"
+                className="border-border hover:bg-sky-600 hover:text-primary-foreground hover:border-primary transition-all duration-300"
               >
                 {category}
               </Button>
